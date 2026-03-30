@@ -1,9 +1,32 @@
-# 💫 About Me:
-I am Abdul Saboor, a seasoned developer with a passion for technology and innovation. With an extensive background in web and API development, I excel in transforming concepts into digital realities. My expertise spans across PHP, Laravel, Node.js, and more, ensuring a seamless and engaging online experience for users.
+# Rizwan Saleem
+
+Proficient Laravel & Node.js Developer with over 7 years of experience
+
+## About Me
+
+I am Rizwan Saleem, a seasoned developer with a passion for technology and innovation. With an extensive background in web and API development, I excel in transforming concepts into digital realities. My expertise spans across PHP, Laravel, Node.js, and more, ensuring a seamless and engaging online experience for users.
+
+## Skills
+
+### Backend Development
+- 🟢 **Laravel**: Mastery in Laravel for robust backend solutions, enabling dynamic web applications with efficient, clean code.
+- ⭐ **Node.js**: Expert in Node.js for scalable and fast backend services, ensuring high performance and concurrency.
+- 🚀 **Express.js**: Skilled in Express.js for RESTful API development, facilitating streamlined backend logic and routing.
+- 🌐 **NestJS**: Proficient in NestJS, a Node.js framework, for structured, scalable applications adhering to best practices.
+
+### Frontend Development
+- 📱 **Bootstrap**: Experienced in Bootstrap for responsive and mobile-first web design, ensuring compatibility across devices.
+- 🌈 **Tailwind CSS**: Knowledgeable in Tailwind CSS for custom, utility-first designs that are visually appealing and user-friendly.
+- ⭐ **VueJs**: Hands-on experience in VueJs 3, ensuring high perforance and using best practices.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mrabdulsaboorofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.abdulsaboor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrabdulsaboor/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/17965591/abdul-saboor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.abdulsaboorofficial@gmail.com) 
+## Let's Connect!
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+Ready to turn your vision into reality? Reach out for a detailed discussion on how we can achieve excellence in your next project. With my skills in Laravel, Node.js, and more, your project is in capable hands.
+
+- **Email**: [rizwansaleem70@gmail.com](mailto:rizwansaleem70@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rizwan-saleem-08bb8851)
+
+## Commitment to Excellence
+
+My commitment to continuous learning and quality makes me the ideal partner for your next project. I offer precision, innovation, and efficiency, striving to exceed expectations and deliver exceptional results.
